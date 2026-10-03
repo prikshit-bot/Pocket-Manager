@@ -1,0 +1,39 @@
+name: manager
+description: "A simple offline personal finance manager built with Flutter and SQLite."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.11.5
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  sqflite: ^2.4.2
+  path: ^1.9.1
+  crypto: ^3.0.6
+  path_provider: ^2.1.5
+  file_picker: ^10.3.3
+
+  cupertino_icons: ^1.0.8
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  sqflite_common_ffi: ^2.3.6
+  flutter_lints: ^6.0.0
+  flutter_launcher_icons: ^0.14.4
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/icon/app_icon.png
+
+flutter_launcher_icons:
+  android: true
+  ios: false
+  image_path: "assets/icon/app_icon.png"
