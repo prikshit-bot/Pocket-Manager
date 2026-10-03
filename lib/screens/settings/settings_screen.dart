@@ -313,7 +313,7 @@ class _SettingsScreenState extends State<SettingsScreen> {
           ),
           const ListTile(
             leading: Icon(Icons.info_outline),
-            title: Text('Manager'),
+            title: Text('Pocket Manager'),
             subtitle: Text('Version 1.0.0 (V1)'),
           ),
         ],

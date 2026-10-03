@@ -1,20 +1,20 @@
 import 'package:flutter_test/flutter_test.dart';
 import 'package:sqflite_common_ffi/sqflite_ffi.dart';
-import 'package:manager/services/account_service.dart';
-import 'package:manager/models/account_model.dart';
-import 'package:manager/database/database_helper.dart';
-import 'package:manager/services/category_service.dart';
-import 'package:manager/services/transaction_service.dart';
-import 'package:manager/models/transaction_model.dart' as app_models;
-import 'package:manager/services/transfer_service.dart';
-import 'package:manager/services/goal_service.dart';
-import 'package:manager/services/home_service.dart';
-import 'package:manager/models/transfer_model.dart';
-import 'package:manager/models/goal_model.dart';
-import 'package:manager/services/app_setting_service.dart';
-import 'package:manager/services/backup_service.dart';
+import 'package:pocket_manager/services/account_service.dart';
+import 'package:pocket_manager/models/account_model.dart';
+import 'package:pocket_manager/database/database_helper.dart';
+import 'package:pocket_manager/services/category_service.dart';
+import 'package:pocket_manager/services/transaction_service.dart';
+import 'package:pocket_manager/models/transaction_model.dart' as app_models;
+import 'package:pocket_manager/services/transfer_service.dart';
+import 'package:pocket_manager/services/goal_service.dart';
+import 'package:pocket_manager/services/home_service.dart';
+import 'package:pocket_manager/models/transfer_model.dart';
+import 'package:pocket_manager/models/goal_model.dart';
+import 'package:pocket_manager/services/app_setting_service.dart';
+import 'package:pocket_manager/services/backup_service.dart';
 
-import 'package:manager/services/security_service.dart';
+import 'package:pocket_manager/services/security_service.dart';
 import 'dart:io';
 void main() {
   setUpAll(() {

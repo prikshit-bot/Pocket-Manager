@@ -90,12 +90,12 @@ BEGIN
         BLOCK "040904e4"
         BEGIN
             VALUE "CompanyName", "com.example" "\0"
-            VALUE "FileDescription", "manager" "\0"
+            VALUE "FileDescription", "Pocket Manager" "\0"
             VALUE "FileVersion", VERSION_AS_STRING "\0"
-            VALUE "InternalName", "manager" "\0"
+            VALUE "InternalName", "Pocket Manager" "\0"
             VALUE "LegalCopyright", "Copyright (C) 2026 com.example. All rights reserved." "\0"
-            VALUE "OriginalFilename", "manager.exe" "\0"
-            VALUE "ProductName", "manager" "\0"
+            VALUE "OriginalFilename", "pocket_manager.exe" "\0"
+            VALUE "ProductName", "Pocket Manager" "\0"
             VALUE "ProductVersion", VERSION_AS_STRING "\0"
         END
     END

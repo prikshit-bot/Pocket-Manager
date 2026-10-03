@@ -46,7 +46,7 @@ class _MyAppState extends State<MyApp> {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Manager',
+      title: 'Pocket Manager',
       theme: ThemeData(
         colorScheme: ColorScheme.fromSeed(
           seedColor: Colors.deepPurple,
@@ -181,7 +181,7 @@ class _PinUnlockScreenState extends State<_PinUnlockScreen> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(title: const Text('Unlock Manager')),
+      appBar: AppBar(title: const Text('Unlock Pocket Manager')),
       body: Padding(
         padding: const EdgeInsets.all(24),
         child: Column(

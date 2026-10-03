@@ -1,10 +1,10 @@
-# Manager
+# Pocket Manager
 
-Manager is a offline-first personal finance application built with Flutter. It provides a focused way to record transactions, manage accounts, monitor savings goals, and understand day-to-day finances without requiring an online account.
+Pocket Manager is a private, offline-first personal finance application built with Flutter. It provides a focused way to record transactions, manage accounts, monitor savings goals, and understand day-to-day finances without requiring an online account.
 
 ## Product Overview
 
-Manager is designed for people who want practical financial tracking with local data ownership. The application stores its core data on the device and keeps common workflows available without an internet connection.
+Pocket Manager is designed for people who want practical financial tracking with local data ownership. The application stores its core data on the device and keeps common workflows available without an internet connection.
 
 ## Features
 
@@ -21,7 +21,7 @@ Manager is designed for people who want practical financial tracking with local 
 
 ## Privacy and Data Storage
 
-Manager does not require registration, a cloud account, or an internet connection for its core functionality. Financial data is stored locally in a SQLite database on the device. Backups are user-controlled and can be created or restored through the application.
+Pocket Manager does not require registration, a cloud account, or an internet connection for its core functionality. Financial data is stored locally in a SQLite database on the device. Backups are user-controlled and can be created or restored through the application.
 
 ## Technology
 
@@ -121,7 +121,7 @@ build/app/outputs/flutter-apk/app-release.apk
 
 ## Project Status
 
-Manager is currently at version `1.0.0` and provides the core personal finance workflows described above.
+Pocket Manager is currently at version `1.0.0` and provides the core personal finance workflows described above.
 
 ## License
 

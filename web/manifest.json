@@ -1,6 +1,6 @@
 {
-    "name": "manager",
-    "short_name": "manager",
+    "name": "Pocket Manager",
+    "short_name": "Pocket Manager",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

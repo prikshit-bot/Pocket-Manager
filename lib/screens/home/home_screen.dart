@@ -42,7 +42,7 @@ class _HomeScreenState extends State<HomeScreen> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(title: const Text('Manager')),
+      appBar: AppBar(title: const Text('Pocket Manager')),
       body: FutureBuilder<HomeSummary>(
         future: _summaryFuture,
         builder: (context, snapshot) {

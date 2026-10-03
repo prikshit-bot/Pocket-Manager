@@ -1,5 +1,5 @@
-name: manager
-description: "A simple offline personal finance manager built with Flutter and SQLite."
+name: pocket_manager
+description: "A private, offline-first personal finance application built with Flutter."
 publish_to: 'none'
 
 version: 1.0.0+1
