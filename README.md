@@ -78,8 +78,8 @@ test/               # Automated tests
 Clone the repository and install the project dependencies:
 
 ```bash
-git clone https://github.com/prikshit-bot/Manager.git
-cd Manager
+git clone https://github.com/prikshit-bot/Pocket-Manager.git
+cd Pocket-Manager
 flutter pub get
 ```
 
@@ -125,4 +125,5 @@ Pocket Manager is currently at version `1.0.0` and provides the core personal fi
 
 ## License
 
-This project does not currently specify an open-source license.
+
+Pocket Manager is licensed under the MIT License.
